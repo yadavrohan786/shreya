@@ -1,0 +1,42 @@
+.caro
+{
+    border: 5px solid black;
+    border-radius: 2px;
+}
+.p1
+{
+    font-size: 20px;
+    text-transform: capitalize;
+}
+*
+{
+    margin: 0px;
+    padding: 0%;
+}
+.top
+{
+    margin-top: -17px;
+}
+.icons a {
+    text-decoration: none;
+    color: #000;
+  }
+  
+  .icons ion-icon {
+    margin-left: 7%;
+    color: #000;
+    margin-right: -60px;
+    font-size: 40px;
+    transition: 0.4s ease;
+  }
+  
+  .icons ion-icon:hover {
+    color: rgb(59, 174, 209);
+  }
+.marq
+{
+    font-size: 40px;
+    color:red;
+    font-weight: 700;
+    background-image: url(1.jfif);
+}
